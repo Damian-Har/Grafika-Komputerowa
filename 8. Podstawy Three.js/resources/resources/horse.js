@@ -6,7 +6,6 @@
     },
 
     "scale" : 10.000000,
-
     "materials": [	{
 	"DbgColor" : 15658734,
 	"DbgIndex" : 0,
